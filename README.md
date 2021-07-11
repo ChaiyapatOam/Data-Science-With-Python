@@ -1,7 +1,5 @@
 # Data Science With Python
 
-## Hi! I'm Chaiyapat
-
  <center>
 
 
