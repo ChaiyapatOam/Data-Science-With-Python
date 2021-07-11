@@ -19,4 +19,6 @@ pip install matplotlib
 ```py
 pip install pandas
 ```
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GbUNKg9sWo5t6Rnq3xtLNyDXxW_3nn_B?usp=sharing)
+# Or you can use this
+- Google Colaboratory
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z6WYYTOhKet3jLip4bd9gkulZN1Cp8BP?usp=sharing)
